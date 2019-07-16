@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsWebApp", "NodejsWebApp\NodejsWebApp.njsproj", "{19E8CB1B-16A2-4227-991B-14A91845A65D}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "WeatherApp", "WeatherApp\WeatherApp.njsproj", "{45846CA7-7A66-45DE-907A-C3BEB81BB60A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E8CB1B-16A2-4227-991B-14A91845A65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E8CB1B-16A2-4227-991B-14A91845A65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E8CB1B-16A2-4227-991B-14A91845A65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E8CB1B-16A2-4227-991B-14A91845A65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45846CA7-7A66-45DE-907A-C3BEB81BB60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45846CA7-7A66-45DE-907A-C3BEB81BB60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45846CA7-7A66-45DE-907A-C3BEB81BB60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45846CA7-7A66-45DE-907A-C3BEB81BB60A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5C3857D-1681-4DAD-A788-4AE5CB4ABFE8}
+	EndGlobalSection
+EndGlobal
